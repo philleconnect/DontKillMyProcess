@@ -1,3 +1,6 @@
+# DEPRECATED
+This is a legacy component and will be obsolete with Systemclient version 2.
+
 # DontKillMyProcess
 Watchdog process for systemclient. It will watch the systemclient and reopen if anything closes it.
 
